@@ -1,0 +1,10 @@
+# Librerías (se reinstalan con un comando)
+node_modules/
+venv/
+__pycache__/
+
+# Archivos generados
+frontend/build/
+
+# Contraseñas y datos privados
+.env
